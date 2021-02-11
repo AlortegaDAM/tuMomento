@@ -1,5 +1,7 @@
 {
   "name": "tuMomento",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
